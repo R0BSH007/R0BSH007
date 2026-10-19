@@ -1,6 +1,4 @@
-Oto zaktualizowany kod pliku README.md z dodanym punktem o projektach w Minecraft:
 
-Markdown
 <div align="center">
 
 # ROBSH007
