@@ -4,7 +4,7 @@
 # ROBSH007
 
 <!-- Baner z autem -->
-<img src="banner.png" alt="ROBSH007 Banner" width="100%">
+<img src="banner.png" alt="R0BSH007 Banner" width="100%">
 
 <br>
 
