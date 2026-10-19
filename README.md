@@ -21,10 +21,8 @@
 ### 📊 Statystyki
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROBSH007&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R0BSH007&show_icons=true&theme=tokyonight)
 
 <br>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ROBSH007&theme=tokyonight)
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=R0BSH007&theme=tokyonight)
